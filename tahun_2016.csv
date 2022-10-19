@@ -1,0 +1,254 @@
+NO,NAMA OBAT,SATUAN TERKECIL,KEBUTUHAN ,TOTAL PENGGUNAAN,SISA STOK ,JUMLAH OBAT/VAKSIN,PERSENTASE KETERSEDIAAN OBAT/VAKSIN
+1,Acyclovir cream,Tube,10065,6485,0,6485,64.43
+2,Acyclovir tablet 400 mg,tablet,81000,38900,41400,80300,99.14
+3,Air Raksa Dental Use,Botol,17,0,2,2,11.76
+4,Alat suntik sekali pakai 0.5 ml,set,3600,0,0,0,0.00
+5,Alat suntik sekali pakai 1 ml,Set,53000,23600,29000,52600,99.25
+6,Alat suntik sekali pakai 2.5 ml,Set,242000,123100,117000,240100,99.21
+7,Alat suntik sekali pakai 5 ml,Set,80000,25210,53990,79200,99.00
+8,Albendazole tablet 400 mg,tablet,13000,4380,8000,12380,95.23
+9,Allopurinol tab 100 mg,tablet,160000,57800,98400,156200,97.63
+10,Ambroxol sirup,Botol,30000,13150,15300,28450,94.83
+11,Ambroxol tablet 30 mg,tablet,214715,180500,0,180500,84.06
+12,Aminofilin injeksi,ampul,1355,200,610,810,59.78
+13,Aminofilin tablet 200 mg,tablet,90000,43600,43200,86800,96.44
+14,Amitriptikin HCL tablet,tablet,20000,3200,16600,19800,99.00
+15,Amoksisilin injekdi 1000 mg,vial,6534,0,0,0,0.00
+16,Amoksisilin kap 250 mg,kaplet,510000,346500,154160,500660,98.17
+17,Amoksisilin kap 500 mg,kaplet,3100000,1165700,1890800,3056500,98.60
+18,Amoksisilin sirup kering 125 mg,Botol,85000,28130,54090,82220,96.73
+19,Antalgin injeksi,ampul,3960,360,2640,3000,75.76
+20,Antalgin tablet 500 mg,tablet,346005,57500,0,57500,16.62
+21,Antasida DEON suspensi,Botol,20000,7600,11850,19450,97.25
+22,Antasida DEON tablet,tablet,2400000,1287200,1060400,2347600,97.82
+23,Antibakteri DEON salep,Tube,18659,8000,0,8000,42.87
+24,Antifungi DEON salep,Pot,18500,7824,10620,18444,99.70
+25,Antihemeroid DEON supp,Supp,6200,2780,3340,6120,98.71
+26,Antimigren DEON tablet,tablet,17061,8200,0,8200,48.06
+27,Antiparkinson DEON tablet,tablet,3800,0,0,0,0.00
+28,Aqua Pro Injeksi steril,vial,6000,1885,3963,5848,97.47
+29,Aquadest steril 500 ml,Botol,150,0,0,0,0.00
+30,Asam Askorbat tablet 50 mg,tablet,1300000,454000,768000,1222000,94.00
+31,Asam Mefenamat tab 500 mg,tablet,585509,31000,0,31000,5.29
+32,Asetosal tablet 100 mg,tablet,5994,0,0,0,0.00
+33,Asetosal tablet 500 mg,tablet,5760,0,0,0,0.00
+34,Atapulgit Tablet 600 mg ,tablet,160000,92900,65500,158400,99.00
+35,Atropin sulfat injeksi,ampul,460,30,270,300,65.22
+36,Betametason cream,Tube,46000,13350,31680,45030,97.89
+37,Captopril tablet 25 mg,tablet,700000,310600,378100,688700,98.39
+38,Catgut Cromic 2/0,sac,6000,2448,3460,5908,98.47
+39,Catgut Cromic 3/0,sac,9648,3134,6432,9566,99.15
+40,Catgut Plain 2/0,sac,7632,240,5088,5328,69.81
+41,Catgut Plain 3/0,sac,9720,480,6480,6960,71.60
+42,Cefadroxil kap 500 mg,kaplet,232500,88600,143500,232100,99.83
+43,Cefadroxil sirup,Botol,21864,1140,8867,10007,45.77
+44,Cimetidine tablet 200 mg,tablet,142000,141300,0,141300,99.51
+45,Ciproflaxacin kap 500 mg,tablet,254883,80900,80400,161300,63.28
+46,Devitalisasi Pasta,Set,32,4,16,20,62.50
+47,Dexametason injeksi,ampul,19500,6590,12500,19090,97.90
+48,Dexametason tablet,tablet,2200000,589000,1604300,2193300,99.70
+49,Dextromertofan tab,tablet,3600,0,0,0,0.00
+50,Dextrometorfan sirup,Botol,900,0,0,0,0.00
+51,Diazepam 2 mg tab,tablet,160950,27900,107300,135200,84.00
+52,Diazepam 5 mg tab,tablet,4680,0,0,0,0.00
+53,Diazepam injeksi,ampul,1300,780,420,1200,92.31
+54,Difenhydramin HCL injeksi,ampul,30000,12180,17025,29205,97.35
+55,Digoksin 0.25 mg tab,tablet,28650,6300,19100,25400,88.66
+56,Domperidon tablet,tablet,110000,29000,71600,100600,91.45
+57,Dosisiklin  ,tablet,6200,2300,3800,6100,98.39
+58,Efedrin HCL tab,tablet,61040,0,0,0,0.00
+59,Ekstrak Belladon tab,tablet,26600,0,0,0,0.00
+60,Epineprin HCL injeksi ,ampul,2379,195,2370,2565,107.82
+61,Erithromisin 500 mg kapsul,kaplet,6783,2300,3000,5300,78.14
+62,Etakridin solution,Botol,4028,534,2685,3219,79.93
+63,Etanol 70 %  1 liter,Botol,955,0,1000,1000,104.71
+64,Etanol 70 % 100 ml,Botol,9700,5977,3635,9612,99.09
+65,Etil Klorida spray,Botol,1122,274,0,274,24.42
+66,Eugenol cairan,Botol,470,82,371,453,96.38
+67,Examination glove Sarung tangan,set,42000,34200,5800,40000,95.24
+68,FDC katagori 1,paket,1436,1,150,151,10.52
+69,FDC katagori anak,paket,114,12,366,378,331.58
+70,FDC katagori II,paket,54,2,24,26,48.15
+71,Fenobarbital 100 mg tab,tablet,1800,0,0,0,0.00
+72,Fenobarbital 30 mg tab,tablet,22690,0,0,0,0.00
+73,Fenobarbital injeksi,ampul,396,0,0,0,0.00
+74,Fenoksimetil Pen. 250 mg tab,tablet,5400,0,0,0,0.00
+75,Fenoksimetil Pen. 500 mg tab,tablet,14400,0,0,0,0.00
+76,Fenol Gliserol TT ,Botol,6016,0,0,0,0.00
+77,Fitomenadion injeksi,ampul,11187,2520,0,2520,22.53
+78,Fitomenadion tab,tablet,34336,3000,32100,35100,102.23
+79,Fluor 0.5 mg tab,tablet,500,0,0,0,0.00
+80,Folley cateter No. 14,Set,69,9,61,70,101.45
+81,Folley cateter No. 16,Set,1211,164,71,235,19.41
+82,Folley cateter No. 18,Set,409,137,15,152,37.16
+83,Folley cateter No. 20,Set,81,7,73,80,98.77
+84,Furosemid 40 mg tab,tablet,50000,47100,1500,48600,97.20
+85,Gameksan emulsi,Botol,1594,0,0,0,0.00
+86,Garam Oralit,sachet,162652,0,0,0,0.00
+87,Gentamisin 0.1% SK,Tube,9798,0,0,0,0.00
+88,Gentamisin injeksi,ampul,6966,0,0,0,0.00
+89,Gentian Violet,Botol,6609,0,0,0,0.00
+90,Glass lonomer Cerment ART,Set,289,110,0,110,38.06
+91,Glibenklamid 5 mg tab,tablet,152068,41500,0,41500,27.29
+92,Gliseril Guaiakolat tab,tablet,1082863,1266000,400000,1666000,153.85
+93,Gliseriln,Botol,216,0,0,0,0.00
+94,Glukosa infus 5%,Botol,19000,9120,9309,18429,96.99
+95,Griseofulvin 125 mg tab,tablet,48000,33000,14500,47500,98.96
+96,Haloperidol 0.5 mg tab ,tablet,21150,400,14100,14500,68.56
+97,Haloperidol 1.5 mg tab,tablet,41000,9700,30800,40500,98.78
+98,Haloperidol 5 mg tablet,tablet,43200,5500,28800,34300,79.40
+99,Hidroklortiazid 25 mg tab,tablet,174790,0,0,0,0.00
+100,Hidrokortison krim 2.5%,Tube,38000,18054,19423,37477,98.62
+101,Hyosiamin N-Butylbromida ,tablet,24400,0,0,0,0.00
+102,Ibuprofen 200 mg tab,tablet,340000,338400,0,338400,99.53
+103,Ibuprofen 400 mg tab,tablet,700000,206100,478300,684400,97.77
+104,Infusion Set Anak ,Set,12000,4068,7068,11136,92.80
+105,Infusion Set Dewasa,Set,39000,18677,20046,38723,99.29
+106,Isosorbid Dinitrat tab,tablet,8000,4900,2400,7300,91.25
+107,IV Cateter No. 18 G,Set,4274,519,2849,3368,78.81
+108,IV Cateter No. 20 G,Set,50639,8921,33759,42680,84.28
+109,IV Cateter No. 22 G,Set,28000,13103,14250,27353,97.69
+110,IV Cateter No. 24 G,Set,19458,7088,12972,20060,103.09
+111,Jarum Jahit Bedah No. 10,Set,530,228,300,528,99.62
+112,Jarum Jahit Bedah No. 11,Set,700,120,492,612,87.43
+113,Jarum Jahit Bedah No. 12,Set,800,240,516,756,94.50
+114,Jarum Jahit Bedah No. 13,Set,400,120,276,396,99.00
+115,Jarum Jahit Bedah No. 14,Set,1446,96,24,120,8.30
+116,Jarum Jahit Bedah No. 9,Set,738,48,492,540,73.17
+117,Jarum Otot besar,Set,614,132,324,456,74.27
+118,Jarum Otot kecil,Set,1872,228,1248,1476,78.85
+119,Kalsium glukonat injeksi iv 10%,ampul,365,0,243,243,66.67
+120,Kalsium Hidroksida Pasta,Set,3051,0,28,28,0.92
+121,Kalsium Laktat 500 mg tab,tablet,1392000,373000,928000,1301000,93.46
+122,Kapas Pembalut 250 gr,Rol,4952,765,3301,4066,82.12
+123,Karbamazepin 200 mg tab,tablet,24049,3700,0,3700,15.39
+124,Kasa kompres 5 cm,Set,88605,650,59070,59720,67.40
+125,Kasa Pembalut 36x80,Set,286,101,0,101,35.31
+126,Kasa Pembalut 4x10,Set,60630,21130,40420,61550,101.52
+127,kasa pembalut 4x15,tablet,15369,100,15900,16000,104.11
+128,Kasa Pembalut 4x3,Set,919,0,1000,1000,108.81
+129,ketokenazol 200 mg,tablet,26017,3750,0,3750,14.41
+130,Klindamisin kap 300 mg,kapsul,24120,0,25000,25000,103.65
+131,Kloramfenikol 250 mg kaps,kaplet,65556,134160,26620,160780,245.26
+132,Kloramfenikol sirup,Botol,9451,2297,8480,10777,114.03
+133,Kloramfenikol SM 1%,Tube,9249,9015,30,9045,97.79
+134,Kloramfenikol tetes mata,Tube,14289,0,0,0,0.00
+135,Kloramfenikol TT 3%,Tube,11000,7025,3900,10925,99.32
+136,Klorfeniramin Maleat (CTM),tablet,3800000,1737400,1975000,3712400,97.69
+137,Klorpremazin 100 mg tab,tablet,22000,15400,5700,21100,95.91
+138,Klorpromazin 25 mg tab,tablet,810,0,0,0,0.00
+139,Klorpromazin 25 mg/ml inj,ampul,129,0,0,0,0.00
+140,Kodein 10 mg tab,tablet,2850,0,1900,1900,66.67
+141,kombinasi azitromisin+cefixim,pkt,110,100,0,100,90.91
+142,Kotrimoksazol suspensi,Botol,42000,16970,24208,41178,98.04
+143,Kotrimoksazol tab 120 mg,tablet,33099,4800,0,4800,14.50
+144,Kotrimoksazol tab 480 mg,tablet,383000,210400,172500,382900,99.97
+145,Lidokain komp. Injeksi,ampul,55000,19610,34990,54600,99.27
+146,Lisol,Botol,540,65,235,300,55.56
+147,Loperamide hcl 2 mg,tablet,172000,34800,136200,171000,99.42
+148,Magnesium Sulfat inj.40%,Botol,89,40,3,43,48.31
+149,Masker Ear Lop,Set,25000,17870,6520,24390,97.56
+150,Masker Tie On,Set,35000,3600,29650,33250,95.00
+151,Mebendazol sirup,Botol,18,0,0,0,0.00
+152,Metformin HCl 500 mg tablet,tablet,310000,23100,276900,300000,96.77
+153,Metilergometrin Maleat inj,ampul,24773,2595,16515,19110,77.14
+154,Metilergometrin Maleat tab,tablet,206100,24200,137400,161600,78.41
+155,Metoklopamid injeksi,ampul,6433,334,0,334,5.19
+156,Metoklopamid sirup,Botol,8420,490,8010,8500,100.95
+157,Metoklopamid tablet,tablet,115800,20200,77200,97400,84.11
+158,Metronidazol 250 mg tab,tablet,68652,0,35000,35000,50.98
+159,Metronidazol 500 mg tab,tablet,178000,111900,65400,177300,99.61
+160,Mikonazol krim,Tube,17112,302,0,302,1.76
+161,Mineral mix,rol,518,0,0,0,0.00
+162,Monoklorkamfer Mentol,Set,170,1,113,114,67.26
+163,Multivitamin,tablet,16500,200,11000,11200,67.88
+164,Mummifying Pasta,Set,35,1,12,13,37.14
+165,Natrium Bikarbonat tab,tablet,580500,83000,387000,470000,80.96
+166,Natrium Diklofenak 50 mg,tablet,240000,16250,208300,224550,93.56
+167,Natriun Klorida 0.9% infus,Botol,15000,6989,3508,10497,69.98
+168,Neo Diaform,tablet,80040,0,0,0,0.00
+169,Nipedifin tablet,tablet,70000,20300,45000,65300,93.29
+170,Nistatin tab 500 .000 IU,tablet,12000,3200,8000,11200,93.33
+171,Nistatin tab Vag. 100.000 IU,tablet,10623,300,2700,3000,28.24
+172,Obat Batuk Hitam,Botol,32417,16350,17602,33952,104.74
+173,Oksitetrasiklin SK 3%,Tube,22857,7778,8,7786,34.06
+174,Oksitetrasiklin SM 1%,Tube,15419,1275,6,1281,8.31
+175,Oksitosin injeksi,ampul,25200,6465,16800,23265,92.32
+176,Omeprazole tab 20 mg ,tablet,56000,5730,49290,55020,98.25
+177,Papaverin Injeksi,ampul,366,0,0,0,0.00
+178,Papaverin tablet,tablet,153750,33800,102500,136300,88.65
+179,Parasetamol sirup,Botol,76000,28085,47250,75335,99.13
+180,Parasetamol tab 100 mg,tablet,180990,102500,0,102500,56.63
+181,Parasetamol tab 500 ml,tablet,4500000,2762800,1603600,4366400,97.03
+182,Pembalut Gips 10 cm,buah,171,0,0,0,0.00
+183,Pembalut Gips 15 cm,buah,182,0,18,18,9.89
+184,Pembalut Gips 7.5 cm,buah,197,0,19,19,9.64
+185,Pirantel Pamoat 125 mg tab,tablet,7000,2970,3580,6550,93.57
+186,Piridoksin HCl tab,tablet,1300000,861500,380500,1242000,95.54
+187,Piroxicam 20 mg,tablet,142584,94900,0,94900,66.56
+188,Plester 5 yard x 5 inch,rol,3000,2062,883,2945,98.17
+189,Polikresulen ,Botol,575,144,4,148,25.74
+190,Povidon Iodine 10% 30 ml,Botol,2500,966,1389,2355,94.20
+191,Povidon Iodine 10% 300 ml,Botol,3000,578,1721,2299,76.63
+192,Prednison 5 mg tab ,tablet,900000,635600,176900,812500,90.28
+193,Prokain benzil mp 3 jt IU/vial inj,vial,18,0,0,0,0.00
+194,Propanolol 40 mg tab ,tablet,2880,0,0,0,0.00
+195,Pyrazinamid 500 mg tab,tablet,180,0,0,0,0.00
+196,Ranitidin 150 mg tablet,tablet,500000,177900,311300,489200,97.84
+197,Ranitidin injeksi,ampul,25000,10335,13515,23850,95.40
+198,Reserpin 0.10 mg tab ,tablet,4700,0,0,0,0.00
+199,Reserpin 0.25 mg tab ,tablet,98633,10300,0,10300,10.44
+200,Retinol 100.000 IU,kapsul,32000,13500,17300,30800,96.25
+201,Retinol 200.000 IU,kapsul,70000,66310,1340,67650,96.64
+202,Riger Laktat infus,Botol,100000,45890,45729,91619,91.62
+203,Salbutamol 2 mg tab,tablet,175000,84800,86000,170800,97.60
+204,Salbutamol 4 mg tab,tablet,68000,15900,51500,67400,99.12
+205,Salep 2-4 komb.,pot,20000,6008,13592,19600,98.00
+206,Salisil Bedak,buah,37000,8436,27570,36006,97.31
+207,Sarung Tangan steril 6.5,Set,17500,2100,14900,17000,97.14
+208,Sarung Tangan steril 7,Set,29000,8270,20400,28670,98.86
+209,Sarung Tangan steril 7.5,Set,31000,2440,27600,30040,96.90
+210,Semen Seng Fosfat,Set,30,1,8,9,30.00
+211,Serum Anti Bisa Ular 5 ml inj,vial,147,38,5,43,29.25
+212,Serum Anti Tetanus 1.500 IU,ampul,2804,185,0,185,6.60
+213,Serum Anti Tetanus 20.000 IU,ampul,260,0,0,0,0.00
+214,Sianokobalamin ( Vit.B12 ),tablet,434550,94300,289700,384000,88.37
+215,Sianokobalamin inj,ampul,41550,15000,27700,42700,102.77
+216,Silk 3/0,sacht,19980,5544,13320,18864,94.41
+217,Silver Amalgam,Set,169,1,13,14,8.28
+218,Sulfasetamid TM,Botol,23324,3240,0,3240,13.89
+219,Tablet Tambah Darah,tablet,2915481,0,0,0,0.00
+220,Temporary Staping Fletcher,Set,42,4,38,42,100.00
+221,Teopilin 150 mg tablet,tablet,900,0,0,0,0.00
+222,Tetrasiklin 250 mg kaps,kapsul,297600,28100,198400,226500,76.11
+223,Tetrasiklin 500 mg kaps,kapsul,130000,76200,42500,118700,91.31
+224,Thyamfenikol 500 mg ,kapsul,150690,0,0,0,0.00
+225,Tiamin  tablet,tablet,2000000,697100,1222900,1920000,96.00
+226,Tiamin injeksi,ampul,4595,1200,0,1200,26.12
+227,Tramadol injeksi 50 mg/ml,ampul,540,0,0,0,0.00
+228,Tramadol tablet 50 mg,tablet,24045,0,0,0,0.00
+229,Triheksifenidil tab,tablet,60000,5800,41200,47000,78.33
+230,Urine Bags,Set,697,289,187,476,68.29
+231,Ventolin nebulizer,Set,3500,1640,1800,3440,98.29
+232,Vit. B Kompleks tab,tablet,2000000,920200,971800,1892000,94.60
+233,Zink tablet dipersibel,tablet,336531,20600,182400,203000,60.32
+234,Asering Infus 500 ml,Botol,67080,5280,44720,50000,74.54
+235,kasa Hidrofil 2m x 80cm,Rol,4331,554,3946,4500,103.90
+236,Kasa Kompres 40cm x 40cm,Rol,2628,179,2521,2700,102.74
+237,Povidone 60 ml,Botol,1500,0,1000,1000,66.67
+238,Kotrimoksazol Forte,tablet,150000,600,99400,100000,66.67
+239,Stesolid rectal,ampul,300,32,168,200,66.67
+240,Simvastatin 10 Mg,tablet,150000,6060,93960,100020,66.68
+241,Bisakodil suppositoria,supp,1260,78,426,504,40.00
+242,Ketokonazole cream,Tube,700,25,475,500,71.43
+243,Amlodipin tab 5 Mg,tablet,200000,2700,97320,100020,50.01
+244,Betahistine tab 6 mg,tablet,7000,0,6000,6000,85.71
+245,BCG,vial,7123,11600,3740,15340,215.36
+246,T T,vial,7137,8600,1840,10440,146.28
+247,D T,vial,2338,2750,250,3000,128.31
+248,CAMPAK 10 Dosis,vial,6616,11520,2310,13830,209.04
+249,POLIO 10 Dosis,vial,9853,23145,3750,26895,272.96
+250,DPT-HB,vial,10780,23718,4500,28218,261.76
+251,HEPATITIS B 0.5 ml ADS,vial,20281,24600,3620,28220,139.15
+252,POLIO 20 Dosis,vial,0,0,0,0,0.00
+253,CAMPAK 20 Dosis,vial,0,0,0,0,0.00
